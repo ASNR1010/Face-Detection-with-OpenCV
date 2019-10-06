@@ -1,1 +1,1 @@
-# Image-Recognition-with-OpenCV
+# face-detection-with-OpenCV
